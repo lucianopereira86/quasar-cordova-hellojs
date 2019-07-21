@@ -1,0 +1,40 @@
+{
+  "name": "quasar-cordova-hellojs",
+  "version": "0.0.1",
+  "description": "Mobile app with social network authentication",
+  "productName": "Quasar Cordova HelloJS",
+  "cordovaId": "org.cordova.quasar.cordova.hellojs",
+  "author": "author@email.com",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "hellojs": {
+    "google": "<YOUR-GOOGLE-APP-ID-HERE>",
+    "facebook": "<YOUR-FACEBOOK-APP-ID-HERE>"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "hellojs": "^1.18.1",
+    "quasar": "^1.0.0",
+    "vuelidate": "^0.7.4"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
