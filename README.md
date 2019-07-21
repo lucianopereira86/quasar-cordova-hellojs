@@ -1,6 +1,6 @@
 # Quasar-Cordova-Hellojs
 
-Android app developed with Quasar + Cordova + HelloJS that allows social network authentication to be used as login and registration in a offline simulation.
+Hybrid app developed with Quasar + Cordova + HelloJS that allows social network authentication to be used as login and registration in a offline simulation.
 
 ## Technologies:
 
