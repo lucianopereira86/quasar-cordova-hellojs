@@ -12,7 +12,7 @@ Android app developed with Quasar + Cordova + HelloJS that allows social network
 
 - Set the google and facebook app ID's inside the "hellojs" object of the package.json:
 
-![Alt Text](/Docs/package.json.PNG)
+![Alt Text](/Imgs/package.json.PNG)
 
 - Download packages: 
   `npm install`
@@ -31,13 +31,13 @@ Android app developed with Quasar + Cordova + HelloJS that allows social network
 
 - Login screen:
 
-![Alt Text](/Docs/login.PNG)
+![Alt Text](/Imgs/login.PNG)
 
 - Register screen:
 
-![Alt Text](/Docs/register.PNG)
+![Alt Text](/Imgs/register.PNG)
 
 - Home screen:
 
-![Alt Text](/Docs/home.PNG)
+![Alt Text](/Imgs/home.PNG)
 	
