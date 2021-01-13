@@ -3736,10 +3736,10 @@ he@1.2.x, he@^1.1.0, he@^1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-hellojs@^1.18.1:
-  version "1.18.1"
-  resolved "https://registry.yarnpkg.com/hellojs/-/hellojs-1.18.1.tgz#6c4148ca7eafec11ba554a62d35f79dd0326672a"
-  integrity sha512-T673GW3RSuM4xzYfJpp/wNPDbUG9FlNSNkQn0thII8DOpl3NphcmtmNrHrmv8hyk1fosJHkgzDfbcpJvmeq5Gw==
+hellojs@^1.18.6:
+  version "1.18.6"
+  resolved "https://registry.yarnpkg.com/hellojs/-/hellojs-1.18.6.tgz#0ff2e356f29ba9c5162518d972513de49f02d540"
+  integrity sha512-xt2zI4w9e6pxNP/WHrHME5Shaex2HuUIni7ZZ1EeqvTTDUd3FOaWdmDKUSRmQgw3LFv06bUi3mVWwGuM5pOtrw==
 
 hex-color-regex@^1.1.0:
   version "1.1.0"
@@ -7648,6 +7648,11 @@ vue@2.6.10:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
+
+vuelidate@^0.7.4:
+  version "0.7.6"
+  resolved "https://registry.yarnpkg.com/vuelidate/-/vuelidate-0.7.6.tgz#84100c13b943470660d0416642845cd2a1edf4b2"
+  integrity sha512-suzIuet1jGcyZ4oUSW8J27R2tNrJ9cIfklAh63EbAkFjE380iv97BAiIeolRYoB9bF9usBXCu4BxftWN1Dkn3g==
 
 vuex@3.1.1:
   version "3.1.1"
